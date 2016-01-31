@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">contacts</string>
+    <string name="enterName">enter name:</string>
+    <string name="enterNumber">enter number:</string>
+    <string name="getName" />
+    <string name="getNumber" />
+    <string name="submit">submit</string>
+
+    <string name="title_activity_review">Review</string>
+</resources>
